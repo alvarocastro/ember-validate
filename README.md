@@ -1,26 +1,26 @@
 # ember-validate
 
-This README outlines the details of collaborating on this Ember addon.
+This ember addon allow the use of the [validate.js](https://validatejs.org/) library in [ember](https://ember-cli.com/) apps.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-validate`
-* `npm install`
+As any other addon:
+```
+ember install ember-lodash
+```
 
-## Running
+## Usage
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+```
+import validate from 'validate';
+```
 
-## Running Tests
+Then you can use the `validate` object as is in the [docs](https://validatejs.org/#validate).
 
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+### Further reading
 
-## Building
+* [validate.js documentation](https://validatejs.org/)
 
-* `ember build`
+## Credits
 
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+This addon is greatly inspired in [ember-lodash](https://github.com/mike-north/ember-lodash) from [Mike North](https://github.com/mike-north) which fulfills a similar purpose.
