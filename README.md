@@ -1,6 +1,6 @@
 # ember-validate
 
-This ember addon allow the use of the [validate.js](https://validatejs.org/) library in [ember](https://ember-cli.com/) apps.
+This ember addon allows the use of the [validate.js](https://validatejs.org/) library in [ember](https://ember-cli.com/) apps.
 
 ## Installation
 
