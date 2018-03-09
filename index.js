@@ -6,7 +6,7 @@ var path = require('path'),
 	UnwatchedDir = require('broccoli-source').UnwatchedDir;
 
 module.exports = {
-	name: 'ember-validate'
+	name: 'ember-validate',
 
 	isDevelopingAddon: function () {
 		return true;
