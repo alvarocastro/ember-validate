@@ -1,6 +1,6 @@
 {
   "name": "ember-validate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Validate.js as ES6 Module for Ember.js Apps.",
   "keywords": [
     "ember-addon",
