@@ -1,18 +1,18 @@
 {
   "name": "ember-validate",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Validate.js as ES6 Module for Ember.js Apps.",
   "keywords": [
     "ember-addon",
     "validate.js"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Alvaro Castro <moltar89@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/alvarocastro/ember-validate",
   "scripts": {
     "build": "ember build",
     "lint:js": "eslint ./*.js addon addon-test-support app config lib server test-support tests",
